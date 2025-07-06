@@ -10,7 +10,7 @@ import pytz
 
 # === Konfigurasi ===
 API_TOKEN = '8118828836:AAFTy8VS4LTgIr3amxNS4PV9fHjR7H7aAIw'
-GROUP_CHAT_ID = -1001521005536
+GROUP_CHAT_ID = -1001972252021
 ADMIN_USERNAME = 'BrimboStockOfficial'
 # ====================
 
